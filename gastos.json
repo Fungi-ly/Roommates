@@ -1,0 +1,28 @@
+{
+    "gastos": [
+        {
+            "id": "023909",
+            "roommate": "Silje Pedersen",
+            "descripcion": "Articulos de limpieza",
+            "monto": 15000
+        },
+        {
+            "id": "716af0",
+            "roommate": "Charlotte Meusel",
+            "descripcion": "Cosas Lindas",
+            "monto": 5000
+        },
+        {
+            "id": "bae01b",
+            "roommate": "Vanesa Blanco",
+            "descripcion": "Comida",
+            "monto": 20000
+        },
+        {
+            "id": "cdb85d",
+            "roommate": "یاسمین گلشن",
+            "descripcion": "Ropa",
+            "monto": 7000
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "roommates": [
+        {
+            "id": "83bc7f",
+            "correo": "silje.pedersen@example.com",
+            "nombre": "Silje Pedersen",
+            "debe": 8000,
+            "recibe": 3750
+        },
+        {
+            "id": "703660",
+            "correo": "charlotte.meusel@example.com",
+            "nombre": "Charlotte Meusel",
+            "debe": 10500,
+            "recibe": 1250
+        },
+        {
+            "id": "ed0d87",
+            "correo": "vanesa.blanco@example.com",
+            "nombre": "Vanesa Blanco",
+            "debe": 6750,
+            "recibe": 5000
+        },
+        {
+            "id": "94f795",
+            "correo": "ysmyn.glshn@example.com",
+            "nombre": "یاسمین گلشن",
+            "debe": 10000,
+            "recibe": 1750
+        }
+    ]
+}
